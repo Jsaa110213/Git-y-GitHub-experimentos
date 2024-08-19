@@ -8,12 +8,12 @@ Y los comandos usados para gestionar este repositorio son:
 
 1. Configurar el nombre del desarrollador que gestionará el repositorio
 ````
-git config --global user.name [user name aquí]
+git config --global user.name "user name aquí"
 ````
 
 2. Configurar el correo del desarrollador que gestionará el repositorio
 ````
-git config --global user.email [correoemail@ejemplo.com]
+git config --global user.email "correoemail@ejemplo.com"
 ````
 
 3. Lograr configurar el como se llamará cualquier rama principal de nuestro repositorio:
